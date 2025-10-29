@@ -1,0 +1,10 @@
+# Ignorar cachés y entornos virtuales
+__pycache__/
+.venv/
+venv/
+.ruff_cache/
+*.pyc
+*.pyo
+*.pyd
+.env
+.DS_Store
